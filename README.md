@@ -11,9 +11,9 @@ Desenvolvedor de software focado em backend e microsservi√ßos, apaixonado por c√
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
         <br>Java
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65" height="65" alt="Spring" style="animation: swing 3s ease-in-out infinite;" />
-        <br>Spring
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
+        <br>AWS
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
@@ -23,23 +23,31 @@ Desenvolvedor de software focado em backend e microsservi√ßos, apaixonado por c√
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
         <br>Kubernetes
       </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+        <br>MySQL
+      </td>
     </tr>
     <tr>
+     <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65" height="65" alt="Spring" style="animation: swing 3s ease-in-out infinite;" />
+        <br>Spring
+      </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="65" height="65" alt="Azure" />
         <br>Azure
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
-        <br>AWS
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="icon" width="65" height="65" style="animation: breathe 2s ease-in-out infinite;" />
         <br>Angular
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
-        <br>MySQL
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65" height="65" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
+        <br>MongoDB
       </td>
     </tr>
   </table>
