@@ -1,25 +1,99 @@
-# Olá, eu sou Gabriel 👋
+# Olá — eu sou Gabriel Alves 👋
 
-Sou desenvolvedor focado em soluções web e dados. Gosto de construir produtos simples, robustos e bem documentados.
+Desenvolvedor de software focado em backend e microsserviços, apaixonado por código limpo, segurança e automação. 
 
 ## 🔧 Tech stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&labelColor=101010)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=101010)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&labelColor=101010)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&labelColor=101010)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&labelColor=101010)
 
-## 📌 Projetos em destaque
-- **Projeto A:** API REST escalável com autenticação JWT — [repo](https://github.com/SEU_USUARIO/projeto-a)
-- **Projeto B:** Dashboard de métricas com React e Charts — [repo](https://github.com/SEU_USUARIO/projeto-b)
-- **Projeto C:** ETL de dados com Python e Airflow — [repo](https://github.com/SEU_USUARIO/projeto-c)
+<style>
+  .spring-icon {
+    animation: swing 3s ease-in-out infinite;
+    transform-origin: center;
+  }
+  @keyframes swing {
+    0%, 100% { transform: rotate(0deg); }
+    25% { transform: rotate(10deg); }
+    75% { transform: rotate(-10deg); }
+  }
+
+  .angular-icon {
+    animation: breathe 2s ease-in-out infinite;
+  }
+  @keyframes breathe {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+  }
+
+  .social-icon {
+    animation: pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.05); opacity: 0.8; }
+  }
+</style>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img class="spring-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65" height="65" alt="Spring" />
+        <br>Spring
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+        <br>Kubernetes
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="65" height="65" alt="Azure" />
+        <br>Azure
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img class="angular-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="icon" width="65" height="65" />
+        <br>Angular
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+        <br>MySQL
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight)
 
-## 🌐 Onde me encontrar
-- LinkedIn: https://www.linkedin.com/in/SEU_USUARIO
-- Portfólio: https://SEU_USUARIO.github.io
-- Email: seu.email@exemplo.com
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ggabriell455&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Alves github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggabriell455&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ggabriell455&theme=tokyonight&hide_border=true&border_radius=4.8&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
+</div>
+
+## 🌐 Redes Sociais
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-alves-da-silva" target="_blank">
+    <img class="social-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ggabriell455" target="_blank">
+    <img class="social-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="Github">
+  </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=footer"/>
+
