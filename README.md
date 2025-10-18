@@ -26,7 +26,7 @@ Desenvolvedor de software focado em backend e microsservi√ßos, apaixonado por c√
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/Zenfection/Image/main/2021/06/08-15-57-53-Microsoft_Azure.gif" width="65" height="65" alt="Azure" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="65" height="65" alt="Azure" />
         <br>Azure
       </td>
       <td align="center" width="96">
